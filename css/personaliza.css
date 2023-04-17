@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.2rem;
+}
+header{
+background-color: black;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+nav > button{
+    margin-right: 200px;
+
+
+}
+figure{
+    width
+}
+figure > img{
+ height: 30%;
+ width: 30%;
+
+}
+
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+
+}
+
+    
+        
+
+    
+    
+
